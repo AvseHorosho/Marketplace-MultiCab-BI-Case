@@ -67,3 +67,13 @@ The model demonstrates structured BI thinking aligned with CFO-level reporting.
 ## Notes
 
 Public repository contains only structural excerpts and methodology. Raw Data Pack tables are intentionally not published.
+
+---
+
+## Author
+
+**AvseHorosho**  
+BI Architect | Marketplace Analytics  
+Governance-driven reporting (TDP → T+3 → T+7)  
+
+GitHub: https://github.com/AvseHorosho
