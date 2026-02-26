@@ -47,6 +47,23 @@ Executive report (T+3): 03_Executive_T+3/
 
 CFO final snapshot (T+7): 04_CFO_Final_T+7/
 
+## Strategic Impact
+
+- Eliminated reporting instability between T+3 and T+7
+- Introduced governed snapshot freeze logic
+- Enabled reproducible financial consolidation across marketplaces
+- Reduced risk of capital misallocation due to unstable metrics
+- Separated operational decision layer from finalized financial layer
+
+### Business Value
+
+This architecture ensures that management decisions are based on:
+- frozen financial data (T+7)
+- traceable executive insights (T+3)
+- controlled interpretation of unit economics
+
+The model demonstrates structured BI thinking aligned with CFO-level reporting.
+
 ## Notes
 
 Public repository contains only structural excerpts and methodology. Raw Data Pack tables are intentionally not published.
